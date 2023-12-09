@@ -1,0 +1,91 @@
+.custom-dropdown {
+  width: 80px;
+
+}
+
+.logo-image {
+  width: 70px;
+
+  margin-right: 5px;
+
+}
+
+.logo-image2 {
+  width: 30px;
+
+  margin-right: 5px;
+
+}
+
+
+
+.footer-link {
+  color: rgb(165, 164, 164);
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: rgb(255, 255, 255);
+  text-decoration: underline;
+}
+
+
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+
+body {
+  font-family: 'Kanit', sans-serif;
+  background-color: #e6e6e6;
+}
+
+
+h4,
+a,
+p,
+div {
+  font-family: 'Kanit', sans-serif;
+}
+
+.imagencard {
+
+  border: 2px solid #c53535;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.contimagencard {
+  text-align: center;
+
+}
+
+.card {
+  text-align: center;
+
+  border-radius: 10px;
+}
+
+.btn {
+  margin-right: 20px;
+}
+
+.tabla td,
+.tabla th {
+  padding: 20px;
+  vertical-align: middle;
+}
+
+.tabla img {
+  max-width: 100px;
+
+  max-height: 100px;
+  border: 2px solid #c53535;
+  border-radius: 10px;
+
+}
+
+.table-container {
+  max-width: 1500px;
+
+  margin: 0 auto;
+
+}
