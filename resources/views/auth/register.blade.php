@@ -25,7 +25,7 @@
 
             <div class="mb-md-5 mt-md-4 pb-5">
 
-            <form action="{{route('register')}}" method="post">
+            <form action="https://proyectoparrotvintage-1hcxamoe.b4a.run/register" method="post">
                 @csrf
               <h2 class="fw-bold mb-2 text-uppercase">Regístrese</h2>
               <p class="text-white-50 mb-5">Porvafor, ingrese su usuario y su contraseña (Letras + numeros)</p>
